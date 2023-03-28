@@ -27,5 +27,5 @@
   
   ##
   
-  ![Snake animation](https://github.com/Daniel-H-Silva/Daniel-H-Silva/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Daniel-H-Silva/Daniel-H-Silva/blob/output/github-contribution-grid-snake.svg)
   
