@@ -8,8 +8,8 @@
 
 <div align="center">
   <a href="https://github.com/Daniel-H-Silva">
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-H-Silva&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-H-Silva&layout=compact&langs_count=7&theme=dark"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Daniel-H-Silva&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Daniel-H-Silva&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
   
   <div style="display: inline_block"><br>
